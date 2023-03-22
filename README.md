@@ -1,4 +1,6 @@
 <h1>Measuring voltage with arduino</h1>
+
+File organisation
  - this code is a VS Code workspace with /src folder
  - src folder contains main.cpp file
  - we are using PlatformIO and Arduino extensions to upload and compile code for arduino
